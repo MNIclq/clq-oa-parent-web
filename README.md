@@ -1,2 +1,2 @@
-oa-admin是平台管理端前端
-oa-web是微信小程序前端
+oa-admin是管理端前端
+oa-web是员工端前端
